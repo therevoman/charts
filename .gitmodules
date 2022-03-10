@@ -1,0 +1,3 @@
+[submodule "democratic-csi-charts"]
+	path = democratic-csi-charts
+	url = https://github.com/therevoman/democratic-csi-charts.git
